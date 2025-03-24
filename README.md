@@ -8,10 +8,12 @@
 
 ## スキル
 
-C#(経験歴3年)  
+C#(経験歴3年)
+PostgreSQL(経験3年)
+Ubuntu(経験3年)
 Python(学習歴2年)       
 C(学習歴半年)    
-bash(学習歴1年)      
+Bash(学習歴1年)      
 
 ##　連絡先
 takayukikamata05281994@gmail.com
